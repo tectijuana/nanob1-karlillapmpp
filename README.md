@@ -1,28 +1,47 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+# UNIDAD 1                                                                                       # Karla Paola Macias Paez
+## Conceptos Básicos
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="T E M P L E T E" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+### Introducción
 
-Plantilla generica de todo repositorio.
+La programación  es la acción de programar que implica  ordenar, estructurar o componer una serie de acciones cronológicas para cumplir un objetivo. La programación puede ser aplicado para eventos sociales, a medios de comunicación y al mundo informático de las computadoras.
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+En informática, la programación es el uso de lenguajes informáticos para imprimir en un sistema computacional funciones y procesos deseados. La  programación de una computadora es la forma de indicar a la computadora qué es lo que tiene que hacer.
 
-----
+![enter image description here](https://playcodeacademy.com/wp-content/uploads/2017/01/codigo-fuente-programacion.jpg)
 
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
+### Lenguaje
 
-----
+El lenguaje es el sistema a través del cual el hombre o los animales  comunican sus ideas y sentimientos, ya sea a través del habla, la escritura u otros signos convencionales, pudiendo utilizar todos los sentidos para comunicar. El término lenguaje es de origen latín  _lingua_.
 
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
+El ser humano emplea un  lenguaje complejo que expresa con secuencias sonoras y signos gráficos. Los animales, por su parte, se comunican a través de signos sonoros y corporales, que aún el hombre no ha podido descifrar, y que en muchos casos distan de ser sencillos.
 
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
+Dicho esto lenguaje de programación es un lenguaje formal que proporciona una serie de instrucciones que permiten a un programador escribir secuencias de órdenes y algoritmos a modo de controlar el comportamiento físico y lógico de una computadora con el objetivo de que produzca diversas clases de datos.
 
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
+### Algoritmo
+
+Como algoritmo denominamos un conjunto ordenado y finito de operaciones simples a través del cual podemos hallar la solución a un problema.
+Los algoritmos nos permiten ejecutar una acción o resolver un problema mediante una serie de instrucciones definidas, ordenadas y finitas. Así, dado un estado inicial y una entrada, y siguiendo los sucesivos pasos indicados, se llega al estado final y se obtiene una solución.
+
+Unos ejemplos de algoritmos en la vida cotidiana podrían ser los siguientes:
+
+ 1. INICIO
+ 2. Abrir el grifo de agua
+ 3. Abrir el grifo de agua.
+ 4. Mojarse las manos.
+ 5. Aplicarse jabón
+ 6. Enjuagarse las manos
+ 7. Cerrar el grifo de agua.
+8. Secarse la manos con papel.  
+9. Exponer las manos a corriente de aire caliente.<
+10.  FIN
 
 
+### Lenguaje algorítmico
+
+Es una serie de símbolos y reglas que se utilizan para describir de manera explícita un proceso. Teniendo en cuenta la forma en que describen el proceso, existen dos tipos de lenguajes algorítmicos:
+
+-   **Gráficos:** Es la representación gráfica de las operaciones que realiza un algoritmo (diagrama de flujo).
+
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LampFlowchart_es.svg/220px-LampFlowchart_es.svg.png)
+
+- **No Gráficos:** Representa en forma descriptiva las operaciones que debe realizar un algoritmo (pseudocódigo).
